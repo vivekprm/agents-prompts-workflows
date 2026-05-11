@@ -243,3 +243,7 @@ Where to start - one afternoon setup
 ```
 
 This setup took me 3 months to figure out you can build it in one afternoon what does your claude code setup look like rn?
+
+Check below repository for Claude code equivalent features for Opencode.
+
+https://github.com/affaan-m/everything-claude-code/tree/main/.opencode
