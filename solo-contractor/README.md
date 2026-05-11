@@ -78,7 +78,7 @@ need the next layer
 This is the part that changed everything for me by default, claude code has zero memory between sessions. every conversation starts from scratch. you explain the same 
 context, make the same corrections, re-discover the same solutions I fixed this with three tools working together
 
-pic
+<img width="680" height="321" alt="HHFATg1a8AAtrkz" src="https://github.com/user-attachments/assets/386f539c-57b9-434b-af1d-7c385bea5976" />
 
 ## obsidian as the knowledge base
 I set up an obsidian vault specifically for my dev work. not notes. not bookmarks. a structured wiki that claude code reads and writes to
