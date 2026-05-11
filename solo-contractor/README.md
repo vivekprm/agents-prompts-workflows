@@ -35,7 +35,7 @@ me asking. and it gets smarter with every session instead of resetting to zero t
 
 here's exactly how i built it, step by step:
 
-# /part 1 - CLAUDE.md oy AGENTS.md (for opencode): the foundation that changes everything
+# /part 1 - CLAUDE.md or AGENTS.md (for opencode): the foundation that changes everything
 This is the file that 90% of users either skip or write wrong CLAUDE.md lives in your project root. claude code reads it at the start of every session. it's your 
 way of telling claude who you are, what you're building, and how you want things done - once, permanently most people write something like 
 "this is a react app, please be helpful" that's useless here's what actually works:
